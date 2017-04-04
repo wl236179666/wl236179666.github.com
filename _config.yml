@@ -14,7 +14,7 @@ url: 'http://www.acier.cn' # the base hostname & protocol for your site http://w
 # google_analytics: 'UA-XXXXXX-X'
 twitter_username: 'wl236179666'
 email: 'leon236@163.com'
-weibo_username: 'charlie1013'
+#weibo_username: 'charlie1013'
 github_username: 'wl236179666'
 # Build settings
 markdown: kramdown
