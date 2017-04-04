@@ -6,13 +6,16 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your Blog Title
-description: '' # write a nice description for your blog
+title: 'Leon的博客'
+author : 'Leon'
+description: 'php知识分享,php技术交流,技术博客' # write a nice description for your blog
 baseurl: '' # the subpath of your site, e.g. /blog
-url: '' # the base hostname & protocol for your site http://www.example.com
+url: 'http://www.acier.cn' # the base hostname & protocol for your site http://www.example.com
 # google_analytics: 'UA-XXXXXX-X'
-twitter_username: 'twitter_username'
-
+twitter_username: 'wl236179666'
+email: 'leon236@163.com'
+weibo_username: 'charlie1013'
+github_username: 'wl236179666'
 # Build settings
 markdown: kramdown
 
