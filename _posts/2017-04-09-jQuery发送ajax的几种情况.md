@@ -30,3 +30,50 @@ ajax是一个方法,方法的参数{}是一个对象,里面是对象的属性和
     }
 </script>
 {% endhighlight %}
+
+### $.get()
+{% highlight ruby %}
+$.get(url,data,success(response,status,xhr),dataType)
+
+url 	必需。规定将请求发送的哪个 URL。
+data 	可选。规定连同请求发送到服务器的数据。
+success(response,status,xhr) 	可选。规定当请求成功时运行的函数。
+额外的参数：
+response - 包含来自请求的结果数据
+status - 包含请求的状态
+xhr - 包含 XMLHttpRequest 对象
+dataType 	可选。规定预计的服务器响应的数据类型。
+默认地，jQuery 将智能判断。
+
+等价于:
+$.ajax({
+url: url,
+data: data,
+success: success,
+dataType: dataType
+});
+{% endhighlight %}
+
+### $.post
+{% highlight ruby %}
+$.post(url,data,success(data, textStatus, jqXHR),dataType)
+等价于:
+$.ajax({
+type: 'POST',
+url: url,
+data: data,
+success: success,
+dataType: dataType
+});
+
+eg:
+$.post("Ajax.aspx", { Action: "post", Name: "lulu" },
+function (data, textStatus){
+// data 可以是 xmlDoc, jsonObj, html, text, 等等.
+//this;
+// 这个Ajax请求的选项配置信息，请参考jQuery.get()说到的this
+alert(data.result);
+}, "json");
+{% endhighlight %}
+
+参考:http://blog.csdn.net/u013474436/article/details/46337159
