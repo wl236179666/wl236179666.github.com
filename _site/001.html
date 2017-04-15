@@ -7,7 +7,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 	<meta name="generator" content="Jekyll">
 
-	<title>jQuery发送ajax的几种情况</title>
+	<title>终于将博客成功搭建在github pages上</title>
   <meta name="description" content="A minimal, responsive, ready to use blog template, built with Jekyll.">
 
 	<!-- CSS & fonts -->
@@ -41,8 +41,6 @@
 	  
 	    
 	      <a href="/about" title="About Monochrome">About Monochrome</a>
-	    
-	  
 	    
 	  
 	    
@@ -110,8 +108,6 @@
 	    
 	      
 	    
-	      
-	    
       
       <!-- Nav links -->
 	    <!--<a href="https://github.com/thereviewindex/monochrome/archive/master.zip">Download</a>-->
@@ -133,127 +129,20 @@
 		<main>
 
 			<article id="post-page">
-	<h2>jQuery发送ajax的几种情况</h2>		
-	<time datetime="2017-04-09T21:56:00+08:00" class="by-line">09 Apr 2017</time>
+	<h2>终于将博客成功搭建在github pages上</h2>		
+	<time datetime="2017-04-04T00:00:00+08:00" class="by-line">04 Apr 2017</time>
 	<div class="content">
 
-		<p>详细介绍用jQuery发送ajax的几种情况,以及$.ajax(),$.get(),$.post()三者的关系.
-ajax是一个方法,方法的参数{}是一个对象,里面是对象的属性和值</p>
+		<p>工作中用到了git，然后就了解到了github能搭建博客，感觉很不错，服务器都省了，于是就每天下班后回到家开始研究，
+倒腾了两三天，可算是整出来了。</p>
 
-<h3 id="ajax">$.ajax()</h3>
-
-<figure class="highlight"><pre><code class="language-javascript" data-lang="javascript"><table style="border-spacing: 0"><tbody><tr><td class="gutter gl" style="text-align: right"><pre class="lineno">1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18</pre></td><td class="code"><pre>    <span class="c1">//ajax是一个方法,方法的参数{}是一个对象,里面是对象的属性和值</span>
-    <span class="nx">$</span><span class="p">.</span><span class="nx">ajax</span><span class="p">({</span>
-        <span class="na">type</span>    <span class="p">:</span> <span class="s2">"post"</span><span class="p">,</span>  <span class="c1">//发送类型,get或post,默认为get</span>
-        <span class="na">async</span>   <span class="p">:</span> <span class="kc">true</span><span class="p">,</span>  <span class="c1">//true为异步,false为同步,默认为true</span>
-        <span class="na">url</span>      <span class="p">:</span> <span class="s2">"http://localhost:8080/comment.php"</span><span class="p">,</span> <span class="c1">//请求的后台地址</span>
-        <span class="na">data</span>     <span class="p">:</span> <span class="s2">"name=wang&amp;comment=hello"</span><span class="p">,</span> <span class="c1">//往后台传递的参数,可以是object或string类型,但最终都会被转换为字符串格式</span>
-        <span class="na">data</span>     <span class="p">:</span> <span class="p">{</span><span class="na">name</span><span class="p">:</span><span class="s2">"wang"</span><span class="p">,</span><span class="na">comment</span><span class="p">:</span><span class="s2">"hello"</span><span class="p">},</span>
-        <span class="na">data</span>     <span class="p">:</span> <span class="p">{</span><span class="na">foo</span><span class="p">:[</span><span class="s2">"bar1"</span><span class="p">,</span><span class="s2">"bar2"</span><span class="p">]},</span><span class="c1">//被转换为 &amp;foo=bar1&amp;foo=bar2</span>
-        <span class="na">data</span>     <span class="p">:</span> <span class="nx">$</span><span class="p">(</span><span class="s2">"#form1"</span><span class="p">).</span><span class="nx">serialize</span><span class="p">(),</span>
-        <span class="na">dataType</span> <span class="p">:</span> <span class="s2">"text"</span><span class="p">,</span> <span class="c1">//预期服务器返回的数据类型,可以为text,json,html,xml,script等,text表示返回数据为纯文本字符串</span>
-        <span class="na">cache</span>    <span class="p">:</span> <span class="kc">true</span><span class="p">,</span>  <span class="c1">//true使用浏览器缓存,false不适用,默认为true</span>
-        <span class="na">contentType</span> <span class="p">:</span>   <span class="c1">//string类型,默认为"application/x-www-form-urlencoded",适合大多数应用场合</span>
-        <span class="na">success</span>   <span class="p">:</span> <span class="nx">statechange</span>  <span class="c1">//成功时的回调函数</span>
-    <span class="p">});</span>
-
-    <span class="kd">function</span> <span class="nx">statechange</span><span class="p">(</span><span class="nx">data</span><span class="p">)</span> <span class="p">{</span>
-        <span class="c1">//用于接收应答数据的回调函数,参数在data中</span>
-    <span class="p">}</span><span class="w">
-</span></pre></td></tr></tbody></table></code></pre></figure>
-
-<h3 id="get">$.get()</h3>
-
-<figure class="highlight"><pre><code class="language-javascript" data-lang="javascript"><table style="border-spacing: 0"><tbody><tr><td class="gutter gl" style="text-align: right"><pre class="lineno">1</pre></td><td class="code"><pre><span class="nx">$</span><span class="p">.</span><span class="nx">get</span><span class="p">(</span><span class="nx">url</span><span class="p">,</span><span class="nx">data</span><span class="p">,</span><span class="nx">success</span><span class="p">(</span><span class="nx">response</span><span class="p">,</span><span class="nx">status</span><span class="p">,</span><span class="nx">xhr</span><span class="p">),</span><span class="nx">dataType</span><span class="p">)</span><span class="w">
-</span></pre></td></tr></tbody></table></code></pre></figure>
-
-<p>url 	//必需。规定将请求发送的哪个 URL。<br />
-data 	//可选。规定连同请求发送到服务器的数据。<br />
-success(response,status,xhr) 	//可选。规定当请求成功时运行的函数。</p>
-
-<p>额外的参数：
-response // 包含来自请求的结果数据
-status // 包含请求的状态
-//xhr - 包含 XMLHttpRequest 对象
-dataType 	//可选。规定预计的服务器响应的数据类型。</p>
-
-<p>默认地，jQuery 将智能判断。</p>
-
-<p>等价于:</p>
-
-<figure class="highlight"><pre><code class="language-javascript" data-lang="javascript"><table style="border-spacing: 0"><tbody><tr><td class="gutter gl" style="text-align: right"><pre class="lineno">1
-2
-3
-4
-5
-6</pre></td><td class="code"><pre><span class="nx">$</span><span class="p">.</span><span class="nx">ajax</span><span class="p">({</span>
-<span class="na">url</span><span class="p">:</span> <span class="nx">url</span><span class="p">,</span>
-<span class="na">data</span><span class="p">:</span> <span class="nx">data</span><span class="p">,</span>
-<span class="na">success</span><span class="p">:</span> <span class="nx">success</span><span class="p">,</span>
-<span class="na">dataType</span><span class="p">:</span> <span class="nx">dataType</span>
-<span class="p">});</span><span class="w">
-</span></pre></td></tr></tbody></table></code></pre></figure>
-
-<h3 id="post">$.post</h3>
-
-<figure class="highlight"><pre><code class="language-javascript" data-lang="javascript"><table style="border-spacing: 0"><tbody><tr><td class="gutter gl" style="text-align: right"><pre class="lineno">1</pre></td><td class="code"><pre><span class="nx">$</span><span class="p">.</span><span class="nx">post</span><span class="p">(</span><span class="nx">url</span><span class="p">,</span><span class="nx">data</span><span class="p">,</span><span class="nx">success</span><span class="p">(</span><span class="nx">data</span><span class="p">,</span> <span class="nx">textStatus</span><span class="p">,</span> <span class="nx">jqXHR</span><span class="p">),</span><span class="nx">dataType</span><span class="p">)</span><span class="w">
-</span></pre></td></tr></tbody></table></code></pre></figure>
-
-<p>等价于:</p>
-
-<figure class="highlight"><pre><code class="language-javascript" data-lang="javascript"><table style="border-spacing: 0"><tbody><tr><td class="gutter gl" style="text-align: right"><pre class="lineno">1
-2
-3
-4
-5
-6
-7</pre></td><td class="code"><pre><span class="nx">$</span><span class="p">.</span><span class="nx">ajax</span><span class="p">({</span>
-<span class="na">type</span><span class="p">:</span> <span class="s1">'POST'</span><span class="p">,</span>
-<span class="na">url</span><span class="p">:</span> <span class="nx">url</span><span class="p">,</span>
-<span class="na">data</span><span class="p">:</span> <span class="nx">data</span><span class="p">,</span>
-<span class="na">success</span><span class="p">:</span> <span class="nx">success</span><span class="p">,</span>
-<span class="na">dataType</span><span class="p">:</span> <span class="nx">dataType</span>
-<span class="p">});</span><span class="w">
-</span></pre></td></tr></tbody></table></code></pre></figure>
-
-<p>eg:</p>
-
-<figure class="highlight"><pre><code class="language-javascript" data-lang="javascript"><table style="border-spacing: 0"><tbody><tr><td class="gutter gl" style="text-align: right"><pre class="lineno">1
-2
-3
-4
-5
-6
-7</pre></td><td class="code"><pre><span class="nx">$</span><span class="p">.</span><span class="nx">post</span><span class="p">(</span><span class="s2">"Ajax.aspx"</span><span class="p">,</span> <span class="p">{</span> <span class="na">Action</span><span class="p">:</span> <span class="s2">"post"</span><span class="p">,</span> <span class="na">Name</span><span class="p">:</span> <span class="s2">"lulu"</span> <span class="p">},</span>
-<span class="kd">function</span> <span class="p">(</span><span class="nx">data</span><span class="p">,</span> <span class="nx">textStatus</span><span class="p">){</span>
-<span class="c1">// data 可以是 xmlDoc, jsonObj, html, text, 等等.</span>
-<span class="c1">//this;</span>
-<span class="c1">// 这个Ajax请求的选项配置信息，请参考jQuery.get()说到的this</span>
-<span class="nx">alert</span><span class="p">(</span><span class="nx">data</span><span class="p">.</span><span class="nx">result</span><span class="p">);</span>
-<span class="p">},</span> <span class="s2">"json"</span><span class="p">);</span><span class="w">
-</span></pre></td></tr></tbody></table></code></pre></figure>
-
-<p><br /> 
-<br /> 
-<br /> 
-参考文件<a href="http://blog.csdn.net/u013474436/article/details/46337159" title="参考资料">点击查看</a></p>
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">show</span>
+  <span class="vi">@widget</span> <span class="o">=</span> <span class="no">Widget</span><span class="p">(</span><span class="n">params</span><span class="p">[</span><span class="ss">:id</span><span class="p">])</span>
+  <span class="n">respond_to</span> <span class="k">do</span> <span class="o">|</span><span class="nb">format</span><span class="o">|</span>
+    <span class="nb">format</span><span class="p">.</span><span class="nf">html</span> <span class="c1"># show.html.erb</span>
+    <span class="nb">format</span><span class="p">.</span><span class="nf">json</span> <span class="p">{</span> <span class="n">render</span> <span class="ss">json: </span><span class="vi">@widget</span> <span class="p">}</span>
+  <span class="k">end</span>
+<span class="k">end</span></code></pre></figure>
 
 		
 	</div>
