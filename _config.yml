@@ -23,7 +23,7 @@ weibo_username:     272007758
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
-highlighter: rouge
+highlighter: 'http://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.10.0/highlight.min.js'
 permalink: pretty
 paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","README.zh.md"]
@@ -55,6 +55,7 @@ kramdown:
 # Share component is depend on Comment so we can NOT use share only.
 #duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
+# UY settings
 
 
 
