@@ -182,6 +182,88 @@
             ">
     			
 <div class="post-preview">
+    <a href="/2017/04/29/005/">
+        <h2 class="post-title">
+            js中如何格式化时间戳
+        </h2>
+        
+        <div class="post-content-preview">
+            下面是封装好的一个函数,直接上代码
+
+    function trans(unixTime, isFull, timeZone) {
+        if (typeof (timeZone) == 'number')
+        {
+            unixTime = parseInt(unixTime) + parseInt(timeZone) * 60 * 60;
+  ...
+        </div>
+    </a>
+    <p class="post-meta">
+        Posted by Leon on April 29, 2017
+    </p>
+</div>
+<hr>
+
+<div class="post-preview">
+    <a href="/2017/04/12/004/">
+        <h2 class="post-title">
+            Thinkphp 3.x 中使用事务操作
+        </h2>
+        
+        <div class="post-content-preview">
+            事务操作是数据库操作中非常重要的一环,什么是事务操作,有A,B,C三个环节,当三个都顺利执行,则达到预期执行效果.
+如果其中一个环节出现问题,则退回到修改前的状态.下面说一下如何在Thinkphp中使用事务操作
+
+启动事务:
+$User-&gt;startTrans(); 
+
+提交事务:
+$User-&gt;commit();
+
+事物回滚:
+$User-&gt;rollback();
+
+注意...
+        </div>
+    </a>
+    <p class="post-meta">
+        Posted by Leon on April 12, 2017
+    </p>
+</div>
+<hr>
+
+<div class="post-preview">
+    <a href="/2017/04/10/003/">
+        <h2 class="post-title">
+            Linux使用频率比较高的命令
+        </h2>
+        
+        <div class="post-content-preview">
+            列出了一些简单又实用的命令,都是使用率超高的,方便查询.太过基础或复杂少用的这里就不说了.
+
+设置文件权限 chmod
+命令英文原意:change the permissions mode of a file
+命令所在路径: /bin/chmod
+执行权限: 所有用户
+
+权限数字表示:
+r — 4
+w — 2
+x — 1
+
+例如:  rwxrw-r–
+　　　7　6　4
+
+example:
+$...
+        </div>
+    </a>
+    <p class="post-meta">
+        Posted by Leon on April 10, 2017
+    </p>
+</div>
+<hr>
+
+<div class="post-preview">
     <a href="/2017/04/10/002/">
         <h2 class="post-title">
             jQuery发送ajax的几种情况
@@ -250,9 +332,13 @@ public function abc（）
                     <div class="tags">
                         
                             
-                                <a href="/tags/#JavaScript" title="JavaScript" rel="2">
+                                <a href="/tags/#JavaScript" title="JavaScript" rel="3">
                                     JavaScript
                                 </a>
+                            
+                        
+                            
+                        
                             
                         
                     </div>
