@@ -102,7 +102,7 @@ layout: default
                 <!--上篇文章，下篇文章 end-->
                 <br>
                 <br>
-                {% if site.uy_use %}
+                <!--{% if site.uy_use %}-->
                 <!-- 友言评论框 start -->
                 <div class="comment">
                     <!-- UY BEGIN -->
@@ -111,7 +111,7 @@ layout: default
                     <!-- UY END -->
                 </div>
                 <!-- 友言评论框 end -->
-                {% endif %}
+                <!--{% endif %}-->
 
                 {% if site.disqus_username %}
                 <!-- disqus 评论框 start -->
@@ -153,7 +153,7 @@ layout: default
                     <h5><a href="/tags/">FEATURED TAGS</a></h5>
                     <div class="tags">
         				{% for tag in site.tags %}
-                            {% if tag[1].size > site.featured-condition-size %}
+                            {% if tag[0].size > site.featured-condition-size %}
                 				<a href="/tags/#{{ tag[0] }}" title="{{ tag[0] }}" rel="{{ tag[1].size }}">
                                     {{ tag[0] }}
                                 </a>
