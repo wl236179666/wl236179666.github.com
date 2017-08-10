@@ -18,8 +18,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2017-06-11-010.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-38">
-                <caret line="10" column="3" lean-forward="false" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+              <first_editor relative-caret-position="266">
+                <caret line="14" column="74" lean-forward="false" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="74" />
                 <folding>
                   <marker date="1497175510457" expanded="true" signature="4316:4366" ph="..." />
                   <marker date="1497175510457" expanded="true" signature="4411:5231" ph="..." />
@@ -61,48 +61,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-06-16-011.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-06-16-011.md">
+      <file leaf-file-name="2017-07-01-012.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-07-01-012.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="486">
-                <caret line="180" column="64" lean-forward="false" selection-start-line="180" selection-start-column="64" selection-end-line="180" selection-end-column="64" />
-                <folding>
-                  <marker date="1502352642560" expanded="true" signature="1072:1503" ph="{...}" />
-                  <marker date="1502352642560" expanded="true" signature="1093:1145" ph="{&quot;text&quot;: 'ECharts 入门示例'...}" />
-                  <marker date="1502352642560" expanded="true" signature="1192:1235" ph="{...}" />
-                  <marker date="1502352642560" expanded="true" signature="1256:1328" ph="{...}" />
-                  <marker date="1502352642560" expanded="true" signature="1373:1493" ph="[...]" />
-                  <marker date="1502352642560" expanded="true" signature="1374:1492" ph="{&quot;name&quot;: '销量'...}" />
-                  <marker date="1502352642560" expanded="true" signature="3655:6005" ph="..." />
-                  <marker date="1502352642560" expanded="true" signature="3666:4042" ph="..." />
-                  <marker date="1502352642560" expanded="true" signature="4069:5997" ph="..." />
-                  <marker date="1502352642560" expanded="true" signature="4146:4171" ph="..." />
-                  <marker date="1502352642560" expanded="true" signature="4218:5985" ph="..." />
-                  <marker date="1502352642560" expanded="true" signature="4244:5967" ph="{...}" />
-                  <marker date="1502352642560" expanded="true" signature="4395:4739" ph="{...}" />
-                  <marker date="1502352642560" expanded="true" signature="4424:4488" ph="{&quot;text&quot;: '今日订单数据分析'...}" />
-                  <marker date="1502352642560" expanded="true" signature="4518:4573" ph="{...}" />
-                  <marker date="1502352642560" expanded="true" signature="4602:4658" ph="{...}" />
-                  <marker date="1502352642560" expanded="true" signature="4870:5944" ph="{...}" />
-                  <marker date="1502352642560" expanded="true" signature="5023:5173" ph="{...}" />
-                  <marker date="1502352642560" expanded="true" signature="5177:5926" ph="{...}" />
-                  <marker date="1502352642560" expanded="true" signature="5674:5851" ph="{...}" />
-                </folding>
+                <caret line="68" column="44" lean-forward="false" selection-start-line="68" selection-start-column="44" selection-end-line="68" selection-end-column="44" />
+                <folding />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="a.php" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Desktop/a.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="17" column="35" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -150,6 +117,7 @@
         <option value="$USER_HOME$/AppData/Local/Temp/scp07017/www/web/liancai/public_html/App/Qwadmin/Controller/DataController.class.php" />
         <option value="$USER_HOME$/Desktop/a.php" />
         <option value="$PROJECT_DIR$/_posts/2017-06-16-011.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-07-01-012.md" />
       </list>
     </option>
   </component>
@@ -164,10 +132,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1378" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="611" />
+    <option name="y" value="9" />
+    <option name="width" value="1346" />
     <option name="height" value="744" />
   </component>
   <component name="ProjectView">
@@ -292,15 +260,15 @@
       <workItem from="1497140177932" duration="5113000" />
       <workItem from="1497148754610" duration="7459000" />
       <workItem from="1497170600305" duration="5190000" />
-      <workItem from="1502344490322" duration="5972000" />
+      <workItem from="1502344490322" duration="12525000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46977000" />
+    <option name="totallyTimeSpent" value="53530000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19089574" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -335,13 +303,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="20" column="36" lean-forward="true" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Temp/scp53749/www/web/youzheng/public_html/App/Home/View/Dingdan/order.html" />
     <entry file="file://$PROJECT_DIR$/_posts/2017-04-29-005.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -563,11 +524,67 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp08754/www/web/liancai/public_html/App/Qwadmin/View/Data/today_order.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="55" column="33" lean-forward="true" selection-start-line="55" selection-start-column="33" selection-end-line="55" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp07017/www/web/liancai/public_html/App/Qwadmin/Controller/DataController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="39" column="32" lean-forward="false" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/a.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="17" column="35" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-06-16-011.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="486">
+            <caret line="180" column="64" lean-forward="false" selection-start-line="180" selection-start-column="64" selection-end-line="180" selection-end-column="64" />
+            <folding>
+              <marker date="1502352642560" expanded="true" signature="1072:1503" ph="{...}" />
+              <marker date="1502352642560" expanded="true" signature="1093:1145" ph="{&quot;text&quot;: 'ECharts 入门示例'...}" />
+              <marker date="1502352642560" expanded="true" signature="1192:1235" ph="{...}" />
+              <marker date="1502352642560" expanded="true" signature="1256:1328" ph="{...}" />
+              <marker date="1502352642560" expanded="true" signature="1373:1493" ph="[...]" />
+              <marker date="1502352642560" expanded="true" signature="1374:1492" ph="{&quot;name&quot;: '销量'...}" />
+              <marker date="1502352642560" expanded="true" signature="3655:6005" ph="..." />
+              <marker date="1502352642560" expanded="true" signature="3666:4042" ph="..." />
+              <marker date="1502352642560" expanded="true" signature="4069:5997" ph="..." />
+              <marker date="1502352642560" expanded="true" signature="4146:4171" ph="..." />
+              <marker date="1502352642560" expanded="true" signature="4218:5985" ph="..." />
+              <marker date="1502352642560" expanded="true" signature="4244:5967" ph="{...}" />
+              <marker date="1502352642560" expanded="true" signature="4395:4739" ph="{...}" />
+              <marker date="1502352642560" expanded="true" signature="4424:4488" ph="{&quot;text&quot;: '今日订单数据分析'...}" />
+              <marker date="1502352642560" expanded="true" signature="4518:4573" ph="{...}" />
+              <marker date="1502352642560" expanded="true" signature="4602:4658" ph="{...}" />
+              <marker date="1502352642560" expanded="true" signature="4870:5944" ph="{...}" />
+              <marker date="1502352642560" expanded="true" signature="5023:5173" ph="{...}" />
+              <marker date="1502352642560" expanded="true" signature="5177:5926" ph="{...}" />
+              <marker date="1502352642560" expanded="true" signature="5674:5851" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-06-11-010.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-38">
-            <caret line="10" column="3" lean-forward="false" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <first_editor relative-caret-position="266">
+            <caret line="14" column="74" lean-forward="false" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="74" />
             <folding>
               <marker date="1497175510457" expanded="true" signature="4316:4366" ph="..." />
               <marker date="1497175510457" expanded="true" signature="4411:5231" ph="..." />
@@ -608,59 +625,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp08754/www/web/liancai/public_html/App/Qwadmin/View/Data/today_order.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="55" column="33" lean-forward="true" selection-start-line="55" selection-start-column="33" selection-end-line="55" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp07017/www/web/liancai/public_html/App/Qwadmin/Controller/DataController.class.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="39" column="32" lean-forward="false" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/a.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="17" column="35" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-06-16-011.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2017-07-01-012.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="486">
-            <caret line="180" column="64" lean-forward="false" selection-start-line="180" selection-start-column="64" selection-end-line="180" selection-end-column="64" />
-            <folding>
-              <marker date="1502352642560" expanded="true" signature="1072:1503" ph="{...}" />
-              <marker date="1502352642560" expanded="true" signature="1093:1145" ph="{&quot;text&quot;: 'ECharts 入门示例'...}" />
-              <marker date="1502352642560" expanded="true" signature="1192:1235" ph="{...}" />
-              <marker date="1502352642560" expanded="true" signature="1256:1328" ph="{...}" />
-              <marker date="1502352642560" expanded="true" signature="1373:1493" ph="[...]" />
-              <marker date="1502352642560" expanded="true" signature="1374:1492" ph="{&quot;name&quot;: '销量'...}" />
-              <marker date="1502352642560" expanded="true" signature="3655:6005" ph="..." />
-              <marker date="1502352642560" expanded="true" signature="3666:4042" ph="..." />
-              <marker date="1502352642560" expanded="true" signature="4069:5997" ph="..." />
-              <marker date="1502352642560" expanded="true" signature="4146:4171" ph="..." />
-              <marker date="1502352642560" expanded="true" signature="4218:5985" ph="..." />
-              <marker date="1502352642560" expanded="true" signature="4244:5967" ph="{...}" />
-              <marker date="1502352642560" expanded="true" signature="4395:4739" ph="{...}" />
-              <marker date="1502352642560" expanded="true" signature="4424:4488" ph="{&quot;text&quot;: '今日订单数据分析'...}" />
-              <marker date="1502352642560" expanded="true" signature="4518:4573" ph="{...}" />
-              <marker date="1502352642560" expanded="true" signature="4602:4658" ph="{...}" />
-              <marker date="1502352642560" expanded="true" signature="4870:5944" ph="{...}" />
-              <marker date="1502352642560" expanded="true" signature="5023:5173" ph="{...}" />
-              <marker date="1502352642560" expanded="true" signature="5177:5926" ph="{...}" />
-              <marker date="1502352642560" expanded="true" signature="5674:5851" ph="{...}" />
-            </folding>
+            <caret line="68" column="44" lean-forward="false" selection-start-line="68" selection-start-column="44" selection-end-line="68" selection-end-column="44" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
