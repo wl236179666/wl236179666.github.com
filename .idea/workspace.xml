@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b234470-3762-4289-beaf-70f2fb486dd4" name="Default" comment="" />
+    <list default="true" id="7b234470-3762-4289-beaf-70f2fb486dd4" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post-bg-re-vs-ng2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/post-sample-image.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,55 +15,8 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="2017-06-11-010.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-06-11-010.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="266">
-                <caret line="14" column="74" lean-forward="false" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="74" />
-                <folding>
-                  <marker date="1497175510457" expanded="true" signature="4316:4366" ph="..." />
-                  <marker date="1497175510457" expanded="true" signature="4411:5231" ph="..." />
-                  <marker date="1497175510457" expanded="true" signature="4438:4948" ph="..." />
-                  <marker date="1497175510457" expanded="true" signature="4458:4869" ph="..." />
-                  <marker date="1497175510457" expanded="true" signature="4623:4672" ph="..." />
-                  <marker date="1497175510457" expanded="true" signature="4678:4859" ph="..." />
-                  <marker date="1497175510457" expanded="true" signature="4993:5229" ph="..." />
-                  <marker date="1497175510457" expanded="true" signature="7745:10944" ph="..." />
-                  <marker date="1497175510457" expanded="true" signature="7752:8579" ph="..." />
-                  <marker date="1497175510457" expanded="true" signature="7836:8571" ph="..." />
-                  <marker date="1497175510457" expanded="true" signature="7850:7968" ph="{...}" />
-                  <marker date="1497175510457" expanded="true" signature="7979:8018" ph="{...}" />
-                  <marker date="1497175510457" expanded="true" signature="8032:8128" ph="{...}" />
-                  <marker date="1497175510457" expanded="true" signature="8145:8221" ph="{...}" />
-                  <marker date="1497175510457" expanded="true" signature="8234:8324" ph="{...}" />
-                  <marker date="1497175510457" expanded="true" signature="8340:8386" ph="{...}" />
-                  <marker date="1497175510457" expanded="true" signature="8401:8446" ph="{...}" />
-                  <marker date="1497175510457" expanded="true" signature="8467:8501" ph="{...}" />
-                  <marker date="1497175510457" expanded="true" signature="8523:8559" ph="{...}" />
-                  <marker date="1497175510457" expanded="true" signature="8586:10936" ph="..." />
-                  <marker date="1497175510457" expanded="true" signature="8619:9044" ph="..." />
-                  <marker date="1497175510457" expanded="true" signature="8688:9037" ph="..." />
-                  <marker date="1497175510457" expanded="true" signature="8704:9025" ph="..." />
-                  <marker date="1497175510457" expanded="true" signature="9157:10928" ph="..." />
-                  <marker date="1497175510457" expanded="true" signature="9268:9496" ph="{...}" />
-                  <marker date="1497175510457" expanded="true" signature="9568:10063" ph="{...}" />
-                  <marker date="1497175510457" expanded="true" signature="9725:9904" ph="{...}" />
-                  <marker date="1497175510457" expanded="true" signature="9908:10057" ph="{...}" />
-                  <marker date="1497175510457" expanded="true" signature="10137:10618" ph="{...}" />
-                  <marker date="1497175510457" expanded="true" signature="10277:10458" ph="{...}" />
-                  <marker date="1497175510457" expanded="true" signature="10462:10612" ph="{...}" />
-                  <marker date="1497175510457" expanded="true" signature="10669:10917" ph="{...}" />
-                  <marker date="1497175510457" expanded="true" signature="10853:10889" ph="{...}" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2017-07-01-012.md" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="2017-07-01-012.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2017-07-01-012.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -67,6 +25,41 @@
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-07-15-013.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-07-15-013.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="349">
+                <caret line="189" column="12" lean-forward="true" selection-start-line="189" selection-start-column="12" selection-end-line="189" selection-end-column="12" />
+                <folding>
+                  <marker date="1503455403036" expanded="true" signature="3296:3455" ph="..." />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="monitors.html" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Temp/scp20784/www/web/youzheng/public_html/App/Qwadmin/View/Order/monitors.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="117" column="45" lean-forward="false" selection-start-line="117" selection-start-column="45" selection-end-line="117" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OrderController.class.php" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Temp/scp56673/www/web/youzheng/public_html/App/Qwadmin/Controller/OrderController.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="376">
+              <caret line="428" column="5" lean-forward="false" selection-start-line="329" selection-start-column="4" selection-end-line="428" selection-end-column="5" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -80,6 +73,7 @@
       <find>tar</find>
       <find>echar</find>
       <find>goods_id</find>
+      <find>exportExcel</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -115,6 +109,8 @@
         <option value="$USER_HOME$/Desktop/a.php" />
         <option value="$PROJECT_DIR$/_posts/2017-06-16-011.md" />
         <option value="$PROJECT_DIR$/_posts/2017-07-01-012.md" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp56673/www/web/youzheng/public_html/App/Qwadmin/Controller/OrderController.class.php" />
+        <option value="$PROJECT_DIR$/_posts/2017-07-15-013.md" />
       </list>
     </option>
   </component>
@@ -258,14 +254,16 @@
       <workItem from="1497148754610" duration="7459000" />
       <workItem from="1497170600305" duration="5190000" />
       <workItem from="1502344490322" duration="12748000" />
+      <workItem from="1503452863126" duration="2063000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53753000" />
+    <option name="totallyTimeSpent" value="55816000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19089574" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -299,27 +297,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp53749/www/web/youzheng/public_html/App/Home/View/Dingdan/order.html" />
-    <entry file="file://$PROJECT_DIR$/_posts/2017-04-29-005.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="465">
-            <caret line="33" column="46" lean-forward="false" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="46" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-04-12-004.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1406">
-            <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-04-10-003.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -479,7 +456,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="152">
             <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -490,87 +466,22 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="152">
             <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp47286/www/web/shengzhu/public_html/App/Qwadmin/Controller/DataController.class.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp47744/www/web/shengzhu/public_html/App/Qwadmin/View/Data/pc.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp07710/www/web/liancai/public_html/App/Qwadmin/View/Data/history_order.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3591">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp08754/www/web/liancai/public_html/App/Qwadmin/View/Data/today_order.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="55" column="33" lean-forward="true" selection-start-line="55" selection-start-column="33" selection-end-line="55" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp07017/www/web/liancai/public_html/App/Qwadmin/Controller/DataController.class.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="39" column="32" lean-forward="false" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/a.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="17" column="35" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp47286/www/web/shengzhu/public_html/App/Qwadmin/Controller/DataController.class.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp47744/www/web/shengzhu/public_html/App/Qwadmin/View/Data/pc.html" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp07710/www/web/liancai/public_html/App/Qwadmin/View/Data/history_order.html" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp08754/www/web/liancai/public_html/App/Qwadmin/View/Data/today_order.html" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp07017/www/web/liancai/public_html/App/Qwadmin/Controller/DataController.class.php" />
+    <entry file="file://$USER_HOME$/Desktop/a.php" />
     <entry file="file://$PROJECT_DIR$/_posts/2017-06-16-011.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="486">
             <caret line="180" column="64" lean-forward="false" selection-start-line="180" selection-start-column="64" selection-end-line="180" selection-end-column="64" />
-            <folding>
-              <marker date="1502352642560" expanded="true" signature="1072:1503" ph="{...}" />
-              <marker date="1502352642560" expanded="true" signature="1093:1145" ph="{&quot;text&quot;: 'ECharts 入门示例'...}" />
-              <marker date="1502352642560" expanded="true" signature="1192:1235" ph="{...}" />
-              <marker date="1502352642560" expanded="true" signature="1256:1328" ph="{...}" />
-              <marker date="1502352642560" expanded="true" signature="1373:1493" ph="[...]" />
-              <marker date="1502352642560" expanded="true" signature="1374:1492" ph="{&quot;name&quot;: '销量'...}" />
-              <marker date="1502352642560" expanded="true" signature="3655:6005" ph="..." />
-              <marker date="1502352642560" expanded="true" signature="3666:4042" ph="..." />
-              <marker date="1502352642560" expanded="true" signature="4069:5997" ph="..." />
-              <marker date="1502352642560" expanded="true" signature="4146:4171" ph="..." />
-              <marker date="1502352642560" expanded="true" signature="4218:5985" ph="..." />
-              <marker date="1502352642560" expanded="true" signature="4244:5967" ph="{...}" />
-              <marker date="1502352642560" expanded="true" signature="4395:4739" ph="{...}" />
-              <marker date="1502352642560" expanded="true" signature="4424:4488" ph="{&quot;text&quot;: '今日订单数据分析'...}" />
-              <marker date="1502352642560" expanded="true" signature="4518:4573" ph="{...}" />
-              <marker date="1502352642560" expanded="true" signature="4602:4658" ph="{...}" />
-              <marker date="1502352642560" expanded="true" signature="4870:5944" ph="{...}" />
-              <marker date="1502352642560" expanded="true" signature="5023:5173" ph="{...}" />
-              <marker date="1502352642560" expanded="true" signature="5177:5926" ph="{...}" />
-              <marker date="1502352642560" expanded="true" signature="5674:5851" ph="{...}" />
-            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -579,7 +490,7 @@
     <entry file="file://$PROJECT_DIR$/_posts/2017-06-11-010.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="266">
+          <first_editor relative-caret-position="19">
             <caret line="14" column="74" lean-forward="false" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="74" />
             <folding>
               <marker date="1497175510457" expanded="true" signature="4316:4366" ph="..." />
@@ -627,6 +538,35 @@
           <first_editor relative-caret-position="486">
             <caret line="68" column="39" lean-forward="false" selection-start-line="68" selection-start-column="39" selection-end-line="68" selection-end-column="39" />
             <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp20784/www/web/youzheng/public_html/App/Qwadmin/View/Order/monitors.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="117" column="45" lean-forward="false" selection-start-line="117" selection-start-column="45" selection-end-line="117" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp56673/www/web/youzheng/public_html/App/Qwadmin/Controller/OrderController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="428" column="5" lean-forward="false" selection-start-line="329" selection-start-column="4" selection-end-line="428" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-07-15-013.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="349">
+            <caret line="189" column="12" lean-forward="true" selection-start-line="189" selection-start-column="12" selection-end-line="189" selection-end-column="12" />
+            <folding>
+              <marker date="1503455403036" expanded="true" signature="3296:3455" ph="..." />
+            </folding>
           </first_editor>
           <second_editor />
         </state>
