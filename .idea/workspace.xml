@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b234470-3762-4289-beaf-70f2fb486dd4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
-    </list>
+    <list default="true" id="7b234470-3762-4289-beaf-70f2fb486dd4" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,47 +11,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2017-07-15-013.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-07-15-013.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="-1330">
-                <caret line="98" column="0" lean-forward="false" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="6" />
-                <folding>
-                  <marker date="1503455403036" expanded="true" signature="3296:3455" ph="..." />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="2017-08-06-014.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2017-08-06-014.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="467">
-                <caret line="70" column="45" lean-forward="false" selection-start-line="70" selection-start-column="45" selection-end-line="70" selection-end-column="45" />
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="426">
+                <caret line="75" column="4" lean-forward="false" selection-start-line="75" selection-start-column="4" selection-end-line="75" selection-end-column="4" />
                 <folding>
-                  <marker date="1509269867968" expanded="true" signature="1437:1468" ph="..." />
-                  <marker date="1509269867968" expanded="true" signature="1516:1544" ph="..." />
-                  <marker date="1509269867968" expanded="true" signature="1724:1734" ph="..." />
-                  <marker date="1509269867968" expanded="true" signature="1746:1761" ph="..." />
-                  <marker date="1509269867968" expanded="true" signature="1800:1814" ph="..." />
-                  <marker date="1509269867968" expanded="true" signature="1866:1880" ph="..." />
+                  <marker date="1519908803929" expanded="true" signature="1437:1468" ph="..." />
+                  <marker date="1519908803929" expanded="true" signature="1516:1544" ph="..." />
+                  <marker date="1519908803929" expanded="true" signature="1724:1734" ph="..." />
+                  <marker date="1519908803929" expanded="true" signature="1735:1929" ph="..." />
+                  <marker date="1519908803929" expanded="true" signature="1751:1766" ph="..." />
+                  <marker date="1519908803929" expanded="true" signature="1767:1922" ph="..." />
+                  <marker date="1519908803929" expanded="true" signature="1800:1844" ph="..." />
+                  <marker date="1519908803929" expanded="true" signature="1814:1828" ph="..." />
+                  <marker date="1519908803929" expanded="true" signature="1880:1894" ph="..." />
                 </folding>
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="zhuce.html" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Temp/scp36977/www/web/ruyi/public_html/App/Home/View/Index/zhuce.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="74" column="26" lean-forward="false" selection-start-line="74" selection-start-column="26" selection-end-line="74" selection-end-column="26" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -133,7 +108,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="y" value="55" />
     <option name="width" value="870" />
     <option name="height" value="528" />
@@ -153,8 +128,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -190,14 +165,6 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <arguments />
-      <envs />
-    </configuration>
     <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
       <PhpTestRunnerSettings />
       <method />
@@ -256,9 +223,20 @@
       <recursive>false</recursive>
       <method />
     </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -278,27 +256,29 @@
       <workItem from="1497170600305" duration="5190000" />
       <workItem from="1502344490322" duration="12748000" />
       <workItem from="1503452863126" duration="14289000" />
-      <workItem from="1509266625174" duration="3242000" />
+      <workItem from="1509266625174" duration="3808000" />
+      <workItem from="1519908402575" duration="1070000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71284000" />
+    <option name="totallyTimeSpent" value="72920000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13250366" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Grunt " active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13250366" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Grunt " active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -321,27 +301,9 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Downloads/PHPMailer">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/PHPMailer.class.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/SMTP.class.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Downloads/PHPMailer" />
+    <entry file="file://$USER_HOME$/Downloads/PHPMailer.class.php" />
+    <entry file="file://$USER_HOME$/Downloads/SMTP.class.php" />
     <entry file="file://$USER_HOME$/Desktop/editPwdByMail.html" />
     <entry file="file://$USER_HOME$/Desktop/函数.php" />
     <entry file="file://$USER_HOME$/Desktop/EmailController.class.php" />
@@ -434,103 +396,27 @@
     <entry file="file://$USER_HOME$/AppData/Local/Temp/scp56673/www/web/youzheng/public_html/App/Qwadmin/Controller/OrderController.class.php" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/scp35648/www/web/youzheng/public_html/App/Qwadmin/View/Public/head.html" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/scp35265/www/web/youzheng/public_html/App/Qwadmin/View/Public/header.html" />
-    <entry file="file://D:/GitStudy/.git/config">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/WxpayAPI_php_v3/lib/WxPay.Api.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/WxpayAPI_php_v3/lib/WxPay.Config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/WxpayAPI_php_v3/lib/WxPay.Data.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="4" lean-forward="false" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/WxpayAPI_php_v3/lib/WxPay.Notify.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/WxpayAPI_php_v3/lib/WxPay.Exception.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="35" lean-forward="false" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://D:/GitStudy/.git/config" />
+    <entry file="file://$USER_HOME$/Desktop/WxpayAPI_php_v3/lib/WxPay.Api.php" />
+    <entry file="file://$USER_HOME$/Desktop/WxpayAPI_php_v3/lib/WxPay.Config.php" />
+    <entry file="file://$USER_HOME$/Desktop/WxpayAPI_php_v3/lib/WxPay.Data.php" />
+    <entry file="file://$USER_HOME$/Desktop/WxpayAPI_php_v3/lib/WxPay.Notify.php" />
+    <entry file="file://$USER_HOME$/Desktop/WxpayAPI_php_v3/lib/WxPay.Exception.php" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/scp17216/www/web/gongqingtuan/public_html/App/Home/View/Shaodaihui/zhidu.html" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/scp19988/www/web/gongqingtuan/public_html/App/Home/View/Shaodaihui/detail.html" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/scp16224/www/web/gongqingtuan/public_html/App/Home/Controller/ShaodaihuiController.class.php" />
-    <entry file="file://$USER_HOME$/.ssh/id_rsa.pub">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp01124/www/web/ruyi/public_html/App/Common/Conf/tags.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="2" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp04878/www/web/ruyi/public_html/App/Common/Conf/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="43" lean-forward="true" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp11078/www/web/ruyi/public_html/ThinkPHP/Lang/zh-tw.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-9">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp11250/www/web/ruyi/public_html/ThinkPHP/Lang/zh-cn.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp23083/www/web/ruyi/public_html/App/Common/Lang/zh-cn.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/.ssh/id_rsa.pub" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp01124/www/web/ruyi/public_html/App/Common/Conf/tags.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp04878/www/web/ruyi/public_html/App/Common/Conf/config.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp11078/www/web/ruyi/public_html/ThinkPHP/Lang/zh-tw.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp11250/www/web/ruyi/public_html/ThinkPHP/Lang/zh-cn.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp23083/www/web/ruyi/public_html/App/Common/Lang/zh-cn.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp23770/www/web/ruyi/public_html/App/Common/Lang/en-us.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp36977/www/web/ruyi/public_html/App/Home/View/Index/zhuce.html" />
     <entry file="file://$PROJECT_DIR$/_posts/2017-07-15-013.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="-1330">
+          <first_editor relative-caret-position="19">
             <caret line="98" column="0" lean-forward="false" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="6" />
             <folding>
               <marker date="1503455403036" expanded="true" signature="3296:3455" ph="..." />
@@ -540,34 +426,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp23770/www/web/ruyi/public_html/App/Common/Lang/en-us.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2061">
-          <caret line="7" column="30" lean-forward="false" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp36977/www/web/ruyi/public_html/App/Home/View/Index/zhuce.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="74" column="26" lean-forward="false" selection-start-line="74" selection-start-column="26" selection-end-line="74" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-08-06-014.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="467">
-            <caret line="70" column="45" lean-forward="false" selection-start-line="70" selection-start-column="45" selection-end-line="70" selection-end-column="45" />
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="426">
+            <caret line="75" column="4" lean-forward="false" selection-start-line="75" selection-start-column="4" selection-end-line="75" selection-end-column="4" />
             <folding>
-              <marker date="1509269867968" expanded="true" signature="1437:1468" ph="..." />
-              <marker date="1509269867968" expanded="true" signature="1516:1544" ph="..." />
-              <marker date="1509269867968" expanded="true" signature="1724:1734" ph="..." />
-              <marker date="1509269867968" expanded="true" signature="1746:1761" ph="..." />
-              <marker date="1509269867968" expanded="true" signature="1800:1814" ph="..." />
-              <marker date="1509269867968" expanded="true" signature="1866:1880" ph="..." />
+              <marker date="1519908803929" expanded="true" signature="1437:1468" ph="..." />
+              <marker date="1519908803929" expanded="true" signature="1516:1544" ph="..." />
+              <marker date="1519908803929" expanded="true" signature="1724:1734" ph="..." />
+              <marker date="1519908803929" expanded="true" signature="1735:1929" ph="..." />
+              <marker date="1519908803929" expanded="true" signature="1751:1766" ph="..." />
+              <marker date="1519908803929" expanded="true" signature="1767:1922" ph="..." />
+              <marker date="1519908803929" expanded="true" signature="1800:1844" ph="..." />
+              <marker date="1519908803929" expanded="true" signature="1814:1828" ph="..." />
+              <marker date="1519908803929" expanded="true" signature="1880:1894" ph="..." />
             </folding>
           </first_editor>
           <second_editor />
